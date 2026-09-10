@@ -1,0 +1,3173 @@
+{
+  "schemaVersion": 1,
+  "images": [
+    {
+      "id": "alki",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "alki-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "alki-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "alki-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "alki-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "alki-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "alki-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "ballard-ballard-ave",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "ballard-ballard-ave-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "ballard-ballard-ave-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "ballard-ballard-ave-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "ballard-ballard-ave-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "ballard-ballard-ave-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "ballard-ballard-ave-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "bear-creek-cc",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "bear-creek-cc-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "bear-creek-cc-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "bear-creek-cc-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "bear-creek-cc-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "bear-creek-cc-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "bear-creek-cc-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "belltown",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "belltown-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "belltown-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "belltown-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "belltown-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "belltown-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "belltown-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "blue-ridge",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "blue-ridge-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "blue-ridge-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "blue-ridge-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "blue-ridge-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "blue-ridge-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "blue-ridge-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "bridle-trails",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "bridle-trails-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "bridle-trails-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "bridle-trails-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "bridle-trails-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "bridle-trails-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "bridle-trails-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "broadmoor",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "broadmoor-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "broadmoor-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "broadmoor-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "broadmoor-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "broadmoor-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "broadmoor-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "capitol-hill-broadway",
+      "altText": "Broadway streetscape and light rail in Capitol Hill, Seattle",
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "capitol-hill-broadway-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "capitol-hill-broadway-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "capitol-hill-broadway-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "capitol-hill-broadway-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "capitol-hill-broadway-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "capitol-hill-broadway-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "clyde-hill",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "clyde-hill-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "clyde-hill-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "clyde-hill-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "clyde-hill-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "clyde-hill-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "clyde-hill-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "columbia-city",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "columbia-city-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "columbia-city-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "columbia-city-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "columbia-city-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "columbia-city-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "columbia-city-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "denny-blaine",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "denny-blaine-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "denny-blaine-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "denny-blaine-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "denny-blaine-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "denny-blaine-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "denny-blaine-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "denny-triangle",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "denny-triangle-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "denny-triangle-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "denny-triangle-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "denny-triangle-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "denny-triangle-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "denny-triangle-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "downtown-bellevue",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "downtown-bellevue-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "downtown-bellevue-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "downtown-bellevue-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "downtown-bellevue-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "downtown-bellevue-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "downtown-bellevue-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "eastlake",
+      "altText": "Floating homes along the Eastlake shore of Lake Union",
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "eastlake-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "eastlake-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "eastlake-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "eastlake-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "eastlake-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "eastlake-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "education-hill",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "education-hill-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "education-hill-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "education-hill-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "education-hill-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "education-hill-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "education-hill-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "enatai",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "enatai-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "enatai-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "enatai-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "enatai-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "enatai-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "enatai-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "fauntleroy",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "fauntleroy-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "fauntleroy-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "fauntleroy-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "fauntleroy-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "fauntleroy-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "fauntleroy-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "ferry-skyline",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "ferry-skyline-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "ferry-skyline-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "ferry-skyline-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "ferry-skyline-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "ferry-skyline-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "ferry-skyline-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "first-hill-mercer-island",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "first-hill-mercer-island-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "first-hill-mercer-island-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "first-hill-mercer-island-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "first-hill-mercer-island-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "first-hill-mercer-island-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "first-hill-mercer-island-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "first-hill",
+      "altText": "Twilight view of the First Hill skyline in Seattle",
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "first-hill-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "first-hill-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "first-hill-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "first-hill-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "first-hill-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "first-hill-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "fremont-ship-canal",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "fremont-ship-canal-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "fremont-ship-canal-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "fremont-ship-canal-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "fremont-ship-canal-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "fremont-ship-canal-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "fremont-ship-canal-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "green-lake-summer",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "green-lake-summer-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "green-lake-summer-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "green-lake-summer-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "green-lake-summer-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "green-lake-summer-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "green-lake-summer-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "hollywood-hill",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "hollywood-hill-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "hollywood-hill-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "hollywood-hill-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "hollywood-hill-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "hollywood-hill-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "hollywood-hill-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "houghton",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "houghton-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "houghton-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "houghton-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "houghton-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "houghton-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "houghton-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "hunts-point",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "hunts-point-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "hunts-point-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "hunts-point-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "hunts-point-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "hunts-point-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "hunts-point-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "issaquah-front-street",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "issaquah-front-street-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "issaquah-front-street-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "issaquah-front-street-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "issaquah-front-street-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "issaquah-front-street-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "issaquah-front-street-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "issaquah-highlands",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "issaquah-highlands-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "issaquah-highlands-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "issaquah-highlands-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "issaquah-highlands-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "issaquah-highlands-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "issaquah-highlands-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "jeff-dock",
+      "altText": "Jeff Reynolds holding his son on a dock by the water",
+      "productionApproved": true,
+      "aspectRatio": "4:5",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 600,
+          "file": "jeff-dock-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 600,
+          "file": "jeff-dock-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 960,
+          "file": "jeff-dock-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 960,
+          "file": "jeff-dock-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 1500,
+          "file": "jeff-dock-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 1500,
+          "file": "jeff-dock-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "juanita-finn-hill",
+      "altText": "Lake Washington shoreline near Juanita and Finn Hill",
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "juanita-finn-hill-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "juanita-finn-hill-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "juanita-finn-hill-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "juanita-finn-hill-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "juanita-finn-hill-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "juanita-finn-hill-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "kenmore-bothell",
+      "altText": "Lake Washington and green shoreline near Kenmore and Bothell",
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "kenmore-bothell-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "kenmore-bothell-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "kenmore-bothell-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "kenmore-bothell-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "kenmore-bothell-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "kenmore-bothell-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "kirkland-marina",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "kirkland-marina-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "kirkland-marina-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "kirkland-marina-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "kirkland-marina-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "kirkland-marina-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "kirkland-marina-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "laurelhurst",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "laurelhurst-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "laurelhurst-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "laurelhurst-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "laurelhurst-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "laurelhurst-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "laurelhurst-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "leschi",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "leschi-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "leschi-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "leschi-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "leschi-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "leschi-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "leschi-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "madison-park",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "madison-park-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "madison-park-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "madison-park-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "madison-park-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "madison-park-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "madison-park-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "madison-valley",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "madison-valley-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "madison-valley-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "madison-valley-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "madison-valley-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "madison-valley-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "madison-valley-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "madrona",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "madrona-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "madrona-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "madrona-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "madrona-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "madrona-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "madrona-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "magnolia-marina",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "magnolia-marina-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "magnolia-marina-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "magnolia-marina-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "magnolia-marina-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "magnolia-marina-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "magnolia-marina-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "market-kirkland",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "market-kirkland-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "market-kirkland-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "market-kirkland-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "market-kirkland-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "market-kirkland-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "market-kirkland-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "medina",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "medina-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "medina-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "medina-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "medina-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "medina-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "medina-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "mercer-island",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "mercer-island-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "mercer-island-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "mercer-island-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "mercer-island-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "mercer-island-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "mercer-island-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "meydenbauer-bay",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "meydenbauer-bay-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "meydenbauer-bay-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "meydenbauer-bay-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "meydenbauer-bay-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "meydenbauer-bay-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "meydenbauer-bay-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "montlake-rowing",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "montlake-rowing-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "montlake-rowing-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "montlake-rowing-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "montlake-rowing-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "montlake-rowing-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "montlake-rowing-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "mount-baker",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "mount-baker-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "mount-baker-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "mount-baker-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "mount-baker-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "mount-baker-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "mount-baker-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "newcastle-golf",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "newcastle-golf-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "newcastle-golf-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "newcastle-golf-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "newcastle-golf-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "newcastle-golf-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "newcastle-golf-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "newport-shores",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "newport-shores-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "newport-shores-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "newport-shores-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "newport-shores-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "newport-shores-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "newport-shores-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "norkirk",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "norkirk-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "norkirk-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "norkirk-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "norkirk-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "norkirk-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "norkirk-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "north-admiral",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "north-admiral-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "north-admiral-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "north-admiral-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "north-admiral-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "north-admiral-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "north-admiral-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "north-capitol-hill",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "north-capitol-hill-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "north-capitol-hill-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "north-capitol-hill-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "north-capitol-hill-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "north-capitol-hill-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "north-capitol-hill-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "phinney-ridge",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "phinney-ridge-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "phinney-ridge-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "phinney-ridge-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "phinney-ridge-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "phinney-ridge-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "phinney-ridge-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "pike-place-condos",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "pike-place-condos-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "pike-place-condos-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "pike-place-condos-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "pike-place-condos-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "pike-place-condos-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "pike-place-condos-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "pioneer-square",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "pioneer-square-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "pioneer-square-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "pioneer-square-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "pioneer-square-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "pioneer-square-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "pioneer-square-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "portage-bay",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "portage-bay-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "portage-bay-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "portage-bay-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "portage-bay-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "portage-bay-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "portage-bay-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "queen-anne-kerry-park-sunrise",
+      "altText": "Seattle skyline and Mount Rainier at sunrise from Kerry Park",
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "queen-anne-kerry-park-sunrise-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "queen-anne-kerry-park-sunrise-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "queen-anne-kerry-park-sunrise-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "queen-anne-kerry-park-sunrise-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "queen-anne-kerry-park-sunrise-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "queen-anne-kerry-park-sunrise-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "ravenna",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "ravenna-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "ravenna-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "ravenna-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "ravenna-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "ravenna-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "ravenna-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "sahalee",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "sahalee-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "sahalee-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "sahalee-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "sahalee-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "sahalee-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "sahalee-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "sailboat-rainier",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "sailboat-rainier-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "sailboat-rainier-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "sailboat-rainier-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "sailboat-rainier-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "sailboat-rainier-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "sailboat-rainier-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "sammamish-pine-lake",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "sammamish-pine-lake-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "sammamish-pine-lake-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "sammamish-pine-lake-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "sammamish-pine-lake-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "sammamish-pine-lake-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "sammamish-pine-lake-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "seward-park",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "seward-park-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "seward-park-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "seward-park-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "seward-park-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "seward-park-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "seward-park-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "somerset",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "somerset-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "somerset-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "somerset-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "somerset-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "somerset-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "somerset-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "south-lake-union",
+      "altText": "South Lake Union waterfront and skyline in Seattle",
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "south-lake-union-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "south-lake-union-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "south-lake-union-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "south-lake-union-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "south-lake-union-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "south-lake-union-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "sunset-hill",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "sunset-hill-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "sunset-hill-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "sunset-hill-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "sunset-hill-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "sunset-hill-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "sunset-hill-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "trossachs",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "trossachs-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "trossachs-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "trossachs-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "trossachs-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "trossachs-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "trossachs-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "view-ridge",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "view-ridge-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "view-ridge-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "view-ridge-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "view-ridge-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "view-ridge-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "view-ridge-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "vuecrest",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "vuecrest-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "vuecrest-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "vuecrest-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "vuecrest-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "vuecrest-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "vuecrest-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "wallingford",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "wallingford-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "wallingford-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "wallingford-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "wallingford-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "wallingford-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "wallingford-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "washington-park",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "washington-park-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "washington-park-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "washington-park-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "washington-park-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "washington-park-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "washington-park-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "west-bellevue",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "west-bellevue-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "west-bellevue-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "west-bellevue-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "west-bellevue-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "west-bellevue-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "west-bellevue-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "west-of-market",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "west-of-market-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "west-of-market-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "west-of-market-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "west-of-market-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "west-of-market-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "west-of-market-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "west-seattle-run",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "west-seattle-run-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "west-seattle-run-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "west-seattle-run-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "west-seattle-run-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "west-seattle-run-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "west-seattle-run-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "windermere",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "windermere-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "windermere-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "windermere-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "windermere-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "windermere-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "windermere-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "woodinville",
+      "altText": "Tree-lined road through the Sammamish Valley near Woodinville",
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "woodinville-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "woodinville-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "woodinville-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "woodinville-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "woodinville-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "woodinville-1200w.webp"
+        }
+      ]
+    },
+    {
+      "id": "yarrow-point",
+      "altText": null,
+      "productionApproved": true,
+      "aspectRatio": "3:2",
+      "variants": [
+        {
+          "format": "avif",
+          "width": 480,
+          "height": 320,
+          "file": "yarrow-point-480w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 480,
+          "height": 320,
+          "file": "yarrow-point-480w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 768,
+          "height": 512,
+          "file": "yarrow-point-768w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 768,
+          "height": 512,
+          "file": "yarrow-point-768w.webp"
+        },
+        {
+          "format": "avif",
+          "width": 1200,
+          "height": 800,
+          "file": "yarrow-point-1200w.avif"
+        },
+        {
+          "format": "webp",
+          "width": 1200,
+          "height": 800,
+          "file": "yarrow-point-1200w.webp"
+        }
+      ]
+    }
+  ]
+}
