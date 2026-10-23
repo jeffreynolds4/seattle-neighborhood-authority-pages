@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /daytrips/*.pdf
+
+Sitemap: https://neighborhoods.jeffreynoldsseattle.com/sitemap.xml
